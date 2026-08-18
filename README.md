@@ -13,7 +13,7 @@ We work at the intersection of mathematics, computational physics, project manag
 
 ```
 The Computational Pipeline
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------
 UIV/UT (Domain Specific Languages) (Typed Languages)
     ↓
 PicoUnits (Runtime Analysis) (Dimensional Quantities)
@@ -21,11 +21,12 @@ PicoUnits (Runtime Analysis) (Dimensional Quantities)
 PicoMaterials (Material ontology) (Assumption-Driven) 
     ↓
 PyFEA (Solver-Adaptors) ← | Internal Custom Solvers (Lumped, FEM, etc.) |
-----------------------------------------------------------------------------
-            ↓
+-------------------------------------------------------------------------
+                                    ↓                                    
 Internal Hardware Development
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------
 Full-Spectrum EM, Power Electrics, Material Research, etc.
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------
 ```
+
 ---
