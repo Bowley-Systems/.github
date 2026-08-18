@@ -54,8 +54,11 @@ Hardware Projects, Original Research, etc.
 
 ## Appendices
 
-**Hardware Engineering organization** = Fundamentally driven by hardware, not software. Software is leveraged to increase engineering iteration speed.
+**Hardware Engineering organization** <br>
+Fundamentally driven by hardware, not software. Software is leveraged to increase engineering iteration speed.
 
-**Indefinitely** = Independent of acquisitions, mergers, buyouts, or changes in ownership. The foundational software will always remain free for anyone, for any application.
+**Indefinitely** <br>
+Independent of acquisitions, mergers, buyouts, or changes in ownership. The foundational software will always remain free for anyone, for any application.
 
-**Public** = Open source and freely usable under the `MIT` license. No lock-in, No hidden fees, No rug pull.
+**Public** <br> 
+Open source and freely usable under the `MIT` license. No lock-in, No hidden fees, No rug pull.
