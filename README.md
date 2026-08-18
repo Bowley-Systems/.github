@@ -1,4 +1,20 @@
-`Bowley Systems` is a private Hardware engineering organization. Our broad foundational software is indefinitely public.
+<!--
+Hello,
+This is like the secret area of the readme :O
+
+Here is some informal cool background if interested:
+1. Fundamental software needs to be public for on-boarding
+2. We can actually share very complex application notes with the computational models there for you.
+3. Don't tell Ansys but those "Custom Solvers" (Intent to certify btw) will overtime become public (when not needed internally)
+4. I (william) think its worth disseminating the abstraction, its up-to you to define the boundaries of those with other tools.
+
+William Bowley, 
+19th August, 2026
+
+P.S: Thanks for downloading our .github!? `▽`ʃ♡
+-->
+
+`Bowley Systems` is a private hardware engineering organization. Our broad foundational software is indefinitely public.
 
 ---
 At `Bowley Systems`, we develop software to reduce the uncertainty of physical systems.
@@ -42,4 +58,4 @@ Hardware Projects, Original Research, etc.
 
 **Indefinitely** = Independent of acquisitions, mergers, buyouts, or changes in ownership. The foundational software will always remain free for anyone, for any application.
 
-**Public** = Open source and freely usable under the `MIT` license. No lock-in, no hidden fees.
+**Public** = Open source and freely usable under the `MIT` license. No lock-in, No hidden fees, No rug pull.
