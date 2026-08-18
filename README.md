@@ -25,7 +25,7 @@ PyFEA (Solver-Adaptors) ← | Internal Custom Solvers (Lumped, FEM, etc.) |
             ↓
 Internal Hardware Development
 ----------------------------------------------------------------------------
-Low-Frequency EM, Power Electrics, Material Research, etc.
+Full-Spectrum EM, Power Electrics, Material Research, etc.
 ----------------------------------------------------------------------------
 ```
 ---
