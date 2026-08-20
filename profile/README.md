@@ -1,12 +1,6 @@
 <!--
-Hello,
-This is like the secret area of the readme :O
-
-Here is some informal cool background if interested:
-1. Fundamental software needs to be public for on-boarding
-2. We can actually share very complex application notes with the computational models there for you.
-3. Don't tell Ansys but those "Custom Solvers" (Intent to certify btw) will over time become public (when not needed internally)
-4. I (william) think its worth disseminating the abstraction, it's up to you to define the boundaries of those with other tools.
+Hi, lol!?
+Check the readme of the .github for secrets!?
 
 William Bowley, 
 19th August, 2026
@@ -26,13 +20,13 @@ We work at the intersection of mathematics, computational physics, project manag
 ```
 Foundational Software
 -----------------------------------------------------------
-UIV / UT
-(Domain-Specific Languages) (Typed Languages)
+UnitValues
+(Domain-Specific Languages) (.uiv / .ut)
         ↓
 PicoUnits
 (Runtime Analysis) (Dimensional Quantities)
         ↓
-PicoMaterials
+PicoMats
 (Material Ontology) (Assumption-Driven)
         ↓
 PyFEA
