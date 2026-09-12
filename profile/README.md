@@ -46,7 +46,9 @@ Hardware Projects, Original Research, etc.
 -----------------------------------------------------------
 ```
 
-## Appendices
+---
+
+### Appendices
 
 **Hardware Engineering organization** <br>
 Fundamentally driven by hardware, not software. Software is leveraged to increase engineering iteration speed.
@@ -56,3 +58,5 @@ Independent of acquisitions, mergers, buyouts, or changes in ownership. The foun
 
 **Public** <br> 
 Open source and freely usable under the `MIT` license. No lock-in, No hidden fees, No rug pull.
+
+---
